@@ -19,9 +19,8 @@ The agent is constitutionally constrained by `CLAUDE.md`:
 ## Data Handling
 
 - **No persistence**: conversations are not stored beyond the Claude Code session
-- **No telemetry by default**: GA4 tracking is opt-in (requires explicit `.env` configuration)
-- **EU endpoint**: when tracking is enabled, events are sent via `region1.google-analytics.com` (EU data residency)
-- **No PII in events**: only skill name, source, and medium are tracked — no question content
+- **No telemetry**: no analytics, no tracking, no external calls beyond verified knowledge sources
+- **No secrets in repo**: no API keys, no tokens, no credentials of any kind
 
 ## Reporting a Vulnerability
 
@@ -43,7 +42,4 @@ git log --all -p -- .env
 
 # Check CLAUDE.md guardrails
 cat CLAUDE.md | grep -i "don't\|never\|not"
-
-# Check that tracking is opt-in
-ls -la .env 2>/dev/null || echo "No .env = tracking disabled"
 ```

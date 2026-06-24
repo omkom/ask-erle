@@ -3,7 +3,6 @@
 [![Built with Claude Code](https://img.shields.io/badge/Built_with-Claude_Code-blueviolet?logo=claude&logoColor=white)](https://claude.ai/code)
 [![Security Policy](https://img.shields.io/badge/security-policy-green?logo=shield)](SECURITY.md)
 [![Knowledge Files](https://img.shields.io/badge/knowledge-10_files-blue)]()
-[![GA4 Tracking](https://img.shields.io/badge/analytics-opt--in_GA4-orange?logo=google-analytics)]()
 
 An AI agent that answers any question about Erle Alberton's professional background, skills, and experience. Co-built with [Claude Code](https://claude.ai/code) as a single-skill agent with RAG over structured knowledge files.
 
@@ -100,9 +99,7 @@ ask-erle/
 ├── .claude/
 │   └── skills/
 │       └── answer/
-│           └── SKILL.md         # Single skill: route → read → answer → track
-├── scripts/
-│   └── track-event.sh           # GA4 Measurement Protocol (opt-in)
+│           └── SKILL.md         # Single skill: route → read → answer
 ├── knowledge/
 │   ├── career.md                # 20+ years career timeline with metrics
 │   ├── ai-native.md             # AI agent building (53 skills, 48 agents)
@@ -114,7 +111,6 @@ ask-erle/
 │   ├── six-month-plan.md        # VP Eng transformation: Listen → Prove → Scale
 │   ├── methodology.md           # How this agent was built (transparency)
 │   └── sources.md               # Verified public URLs for web fallback
-├── .env.example                 # GA4 config template (tracking is opt-in)
 └── README.md
 ```
 
@@ -125,7 +121,6 @@ ask-erle/
 | **Claude Code, not API** | Zero setup friction. Clone + `claude` = running. |
 | **Markdown knowledge, not vector DB** | 10 files totaling ~2500 lines. Fits in context. Embeddings would be overengineering. |
 | **Single skill, not multi-skill** | One job: answer questions. YAGNI. |
-| **Opt-in analytics** | GA4 Measurement Protocol, EU endpoint, no PII. Disabled by default. |
 | **Transparent about AI co-creation** | This repo was co-built with Claude Code. That's the point. |
 | **Structured sections with headers** | Claude locates relevant info faster with clear sections. |
 | **Web fallback via sources.md** | Verified URLs only. Falls back gracefully when knowledge files don't cover a topic. |
@@ -137,7 +132,7 @@ ask-erle/
 
 ask-erle was co-created with Claude Code. This is deliberate.
 
-At VP Engineering level, the value is in **architecture decisions, quality control, and orchestration** — not typing every line. Erle designed the agent architecture, wrote the behavioral constitution, curated every fact, and quality-controlled every output. Claude Code structured the files, generated documentation, and implemented the tracking mechanism.
+At VP Engineering level, the value is in **architecture decisions, quality control, and orchestration** — not typing every line. Erle designed the agent architecture, wrote the behavioral constitution, curated every fact, and quality-controlled every output. Claude Code structured the files, generated documentation, and ensured cross-file consistency.
 
 This is exactly the AI-native workflow proposed for engineering teams: humans set direction and define quality bars, AI handles execution. The result: 8 documents + a functioning agent produced in a single working session.
 
@@ -227,19 +222,6 @@ The architecture is the contribution. The content is yours.
 I'm Erlé Alberton — 20+ years in engineering, product, and growth. I build AI-native systems daily: a 53-skill agentic work OS for my consulting practice, and OMKomUnity, a SaaS with 48 autonomous AI agents that orchestrate project scoping end-to-end. This repo is a small example of how I think about AI: practical, grounded, minimal, and useful.
 
 [LinkedIn](https://www.linkedin.com/in/%F0%9F%95%89%EF%B8%8F-erl%C3%A9-alberton-561a7824/) | [GitHub](https://github.com/omkom) | erle.alberton@gmail.com
-
----
-
-## Analytics (Opt-in)
-
-ask-erle supports optional GA4 tracking via the Measurement Protocol. When configured, it fires a `skill_invoked` event after each answer — no question content is ever transmitted, only the skill name and source channel.
-
-To enable:
-1. Copy `.env.example` to `.env`
-2. Fill in your GA4 Measurement ID and API Secret
-3. Events will fire automatically via `scripts/track-event.sh`
-
-Tracking is disabled by default. No `.env` = no tracking. See [SECURITY.md](SECURITY.md) for data handling details.
 
 ---
 

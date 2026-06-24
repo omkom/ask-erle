@@ -15,7 +15,9 @@ Learned from a past consulting mistake where pushing transformation too fast los
 - Architecture review, tech debt map, CI/CD audit
 - Identify 2-3 natural AI champions in the team
 - Assess Affluent integration (2025 acquisition)
-- Deliverable: "State of Engineering" factual report
+- Mobile engineering baseline: deploy frequency, build time, crash rates, native tech debt
+- Hiring gap analysis: current headcount vs. 30-person target
+- Deliverable: "State of Engineering" dashboard — DORA by squad, mobile KPIs, tech debt map, hiring gaps
 
 ### Month 2 — "Vision & First Moves"
 - Present AI-native vision (inspire, don't mandate)
@@ -23,7 +25,9 @@ Learned from a past consulting mistake where pushing transformation too fast los
 - Define 3 pilot workflows: AI code review, test generation, documentation
 - Establish engineering principles and rituals
 - First quick win: fix the #1 team irritant
-- Deliverable: AI-native roadmap + Engineering Principles + Sandbox
+- Cross-functional rhythms: weekly Product→Eng sync, bi-weekly Data→Eng, weekly Ops→Eng
+- Launch hiring pipeline: senior AI engineer, 2 mobile engineers, 1 EM
+- Deliverable: AI-native roadmap + Engineering Principles + Sandbox + hiring active
 
 ## Phase 2: Prove (Months 3-4)
 
@@ -31,13 +35,13 @@ Learned from a past consulting mistake where pushing transformation too fast los
 - 2 pilot squads adopt AI workflows (with champions)
 - Measure: code review time, test coverage, cycle time before/after
 - Ship first internal AI agent to production
-- Compliance framework for AI financial advice (AMF/ACPR)
+- AI compliance framework v1 (AMF/ACPR): output guardrails, human review triggers, audit logging, legal sign-off gate
 - Onsite retro with the team
 - Deliverable: pilot metrics + first agent + compliance draft
 
 ### Month 4 — "Expand & Iterate"
 - Extend AI workflows to all squads (with pilot lessons)
-- Financial guidance prototype (Mounir's big bet)
+- Financial guidance agent v0.1: RAG over financial knowledge + portfolio data, risk profiling, compliance guardrails, launch gate (engagement ≥40%, 0 regulatory flags)
 - CI/CD optimization for AI-native development
 - Engineering career framework with AI competencies
 - Anonymous team survey on transformation
@@ -55,9 +59,9 @@ Learned from a past consulting mistake where pushing transformation too fast los
 ### Month 6 — "Prove the Bet"
 - Full productivity assessment (target: 3-5x on key workflows)
 - Board presentation with numbers
-- 12-month roadmap based on learnings
-- Team retrospective
-- Deliverable: Transformation Report
+- 12-month roadmap + 10-year technical vision draft (Finary as "central nervous system" for personal wealth)
+- Team retrospective + challenge session: what worked, what didn't, what we stop
+- Deliverable: Transformation Report + 10-year vision
 
 ## CEO Relationship Approach
 

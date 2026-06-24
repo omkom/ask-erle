@@ -1,7 +1,6 @@
 # Secrets & credentials
 .env
-.env.local
-.env.production
+.env.*
 
 # Internal documentation (not for public repo)
 SUIVI-SKILL-IN-GA4.md
@@ -9,6 +8,3 @@ SUIVI-SKILL-IN-GA4.md
 # OS artifacts
 .DS_Store
 Thumbs.db
-
-# GA4 tracking state
-/tmp/ask-erle-cid

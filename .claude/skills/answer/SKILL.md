@@ -33,11 +33,6 @@ When a user asks a question, follow this process:
    - Or use WebSearch scoped to "Erlé Alberton" + the topic
    - Only use URLs from sources.md or search results about Erlé specifically
 
-6. **Track the interaction** (if GA4 is configured):
-   - After composing the answer, run: `bash scripts/track-event.sh "answer" "direct" "agent"`
-   - If the script fails or .env is missing, continue normally — tracking is opt-in
-   - Never include question content in tracking — only the skill name
-
 ## Response Format
 
 - Lead with the direct answer (1-2 sentences)

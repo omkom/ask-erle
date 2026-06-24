@@ -18,7 +18,6 @@ At Erlé's level of practice, the value is not in typing code line by line — i
 - Structured the markdown knowledge files from raw career data
 - Generated the initial SKILL.md routing logic
 - Produced the README documentation
-- Implemented the GA4 tracking mechanism
 - Cross-checked consistency across files
 
 ### Why This Matters
@@ -36,7 +35,7 @@ In a single working session, the following was produced for Erlé's VP Engineeri
 5. **Interview talking points** (05-TALKING-POINTS-ENTRETIEN.md) — 10 scripted scenarios including live demo
 6. **6-month VP Eng plan** (07-PLAN-6-MOIS-VP-ENG.md) — Listen → Prove → Scale framework
 7. **LaTeX CV template** — 2-page, photo, sidebar, ATS-compatible PDF
-8. **ask-erle agent** — this repository, with 8 knowledge files, routing, tracking, security
+8. **ask-erle agent** — this repository, with 10 knowledge files, routing, and security policy
 
 ### Process Highlights
 - **Grill-me methodology**: Erlé was interviewed about his management style through targeted questions, and the authentic answers were integrated into all documents
