@@ -119,6 +119,59 @@ Validated a major technical migration for one of France's largest e-commerce pla
 
 ---
 
+## Solana Trading Bot — Production Monorepo
+**Role**: Architect & Lead Dev | **Status**: Built | **Period**: 2024
+
+A production-ready Solana trading bot built as a monorepo with full CI/CD pipeline.
+
+**Technical highlights:**
+- TypeScript, Node.js 18+, GitHub Actions with 5 workflows
+- 4 isolated environments: dev / test / preprod / prod
+- Sophisticated branching strategy with automated deployments
+- End-to-end financial transaction architecture
+
+**Fintech relevance:** Direct experience building production financial trading systems with proper environment isolation and CI/CD rigor.
+
+---
+
+## TERRADATA.IO — B2B Territorial Intelligence SaaS
+**Role**: Founder & Architect | **Status**: Active | **Since**: 2024
+
+A B2B SaaS platform for automated lead enrichment with territorial scoring.
+
+**Technical highlights:**
+- Next.js 15 (App Router), tRPC, Clerk authentication
+- PostgreSQL with PostGIS for geospatial queries
+- Redis caching, N8N automation, Prefect ETL pipelines
+- AI report generation via Claude/Ollama through LiteLLM
+- 30+ public data indicators (INSEE, Eurostat, SIRENE)
+- Multi-tenant architecture with role-based access
+
+**Business impact:** Automated territorial scoring that replaces manual research for B2B sales teams.
+
+---
+
+## Vitrina — SaaS for Brazilian Local Businesses
+**Role**: Founder & Full-Stack Architect | **Status**: Active | **Since**: 2025
+
+A SaaS platform enabling Brazilian neighborhood businesses (restaurants, bakeries, pharmacies) to get a professional website connected to Google, iFood, and WhatsApp in under 24 hours.
+
+**Technical highlights:**
+- 11 Docker services: Nuxt 3, Supabase (PostgreSQL 15, Auth/GoTrue, PostgREST, Realtime, Storage, Kong API Gateway, Studio), N8N, Redis 7, Mailpit
+- AI-powered: photo enhancement, menu rewriting, automated review responses, seasonal campaign generation
+- Multi-tenant architecture with mobile-first admin dashboard
+- Automated demo generation per prospect from public data (Google, iFood, Instagram)
+- Full Supabase stack: JWT auth, RLS policies, realtime subscriptions, file storage
+
+**Business model:**
+- Monthly/annual SaaS subscription, .com.br domain included
+- Referral program built into admin
+- 3 tiers: Vitrine (1-page), Catálogo (menu/products), Premium (blog, reservations)
+
+**Relevance:** Full product ownership from 0→1, international market (Brazil), production Docker infrastructure, AI-integrated SaaS with real business model.
+
+---
+
 ## ask-erle (This Project)
 **Role**: Creator | **Status**: Active | **Since**: 2026
 

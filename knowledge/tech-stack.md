@@ -16,15 +16,21 @@
 - **NVIDIA Academy**: AI Sciences and Operations (2025 certification)
 
 ## Backend & Infrastructure
-- **Docker**: Compose orchestration, multi-stage builds, networking (8 services in production)
+- **Docker**: Compose orchestration, multi-stage builds, networking (8-11 services in production)
 - **PostgreSQL 15**: relational data, ACID transactions, schema design
+- **PostGIS**: geospatial queries and territorial data (TERRADATA.IO)
+- **Supabase**: full stack (Auth/GoTrue, PostgREST, Realtime, Storage, Kong gateway) — Vitrina project
 - **Redis 7**: caching, sessions, real-time data
 - **Nginx**: reverse proxy, SSL, caching, load balancing
 - **Express.js**: REST APIs, centralized logging, SSE streaming
 - **N8N**: workflow automation engine (45+ production workflows)
+- **tRPC**: type-safe API layer (TERRADATA.IO)
+- **Prefect**: ETL pipeline orchestration (TERRADATA.IO)
 
 ## Frontend
 - **React 18.2**: components, hooks, context API, lazy loading
+- **Nuxt 3 / Vue.js**: SSR framework (Vitrina, OMKomUnity)
+- **Next.js 15**: App Router, server components (TERRADATA.IO)
 - **Vite 7**: build tooling, HMR, code splitting
 - **TailwindCSS 4**: design system, responsive layouts
 - **Framer Motion + GSAP**: animations, micro-interactions
