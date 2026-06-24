@@ -53,6 +53,13 @@
 - **Transparency and honesty**: addresses gaps directly, provides honest assessments
 - **Ownership culture**: independent consultant mindset — own the outcome, not just the task
 
+### Management Approach (Concrete)
+- **Onboarding**: data-first — audit metrics (DORA, velocity, incidents) before making any decisions. No opinions without data.
+- **1:1 format**: action-driven — short, focused on blockers, decisions, next actions. The engineer's time, optimized for unblocking speed.
+- **Handling resistance**: listen first (understand the real fear), then challenge on substance. Demo > debate. Never mandate.
+- **CEO relationship**: propose Plan B when priorities diverge (light version fast + full version on schedule). Make the tradeoff visible, let the CEO choose.
+- **Biggest lesson**: "Too fast, too hard" in a consulting engagement — now follows "Listen → Prove → Scale" for every transformation.
+
 ### How It Translates to Managing 30+ Engineers
 - **Orchestration experience**: 48 AI agents with routing, fallback, monitoring = architectural thinking for team structure (squads, ownership, interfaces)
 - **Codified quality**: CLAUDE.md + review skills + consulting standards = transferable to engineering culture (code review, testing, CI/CD standards)

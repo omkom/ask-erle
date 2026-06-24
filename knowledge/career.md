@@ -16,11 +16,23 @@
 - Open methodology for AI-augmented consulting and development
 - Used daily for enterprise client deliverables
 
-### 2023–2024 | Head of Marketing Technology — Reezocar (E-Commerce)
+### 2019–2024 | Reezocar — 5 Years, 3 Progressive Roles (E-Commerce)
+
+**Head of Marketing Technology (2023–2024)**
 - VP-level position, cross-functional team of 13 (Data, Tech, SEO)
 - Managed entire Marketing Tech Stack (GTM, GAds, Customer.io, N8N)
 - Results: acquisition costs -65%, organic traffic +9%, lead cost <35€
 - Led AI-powered content creation and lead generation workflows
+
+**Performance Architect & Senior SEO Expert (2021–2023)**
+- Technical Advisor to Executive Committee on digital technology
+- Redesigned Technical and Marketing Stack (TMS, CMP, Data Lake, SEO/SEA)
+- Traffic growth from 1.3M to 3.4M visits/month (trending 3.8M pre-COVID)
+
+**Acquisition & Digital Performance Manager (2019–2021)**
+- Direct report to CTO, cross-functional team supervision
+- SEO traffic increase: +137% within 100 days
+- Built fully operational SEO/SEA monitoring dashboard
 
 ### 2022–2023 | Chief Digital & Marketing Officer — RAYN/AKT.IO (Web3 NeoBank)
 - Led digital transformation and marketing for a fintech/Web3 company
@@ -28,11 +40,6 @@
 - Implemented martech tracking in native iOS/Android mobile apps
 - Client onboarding +27% in first semester
 - Team restructuring and process design
-
-### 2021–2023 | Performance Architect & Senior SEO Expert — Executive Board
-- Technical Advisor to Executive Committee on digital technology
-- Redesigned Technical and Marketing Stack (TMS, CMP, Data Lake, SEO/SEA)
-- Traffic growth from 1.3M to 3.4M visits/month (trending 3.8M pre-COVID)
 
 ### 2022 | Technical Migration Advisor — Boulanger.com (E-Commerce)
 - Audited and validated technical migration for one of France's largest e-commerce sites
@@ -43,11 +50,6 @@
 - Clients include Patek Philippe, Rakuten, Eskimoz, CDiscount, OVH, Paris Match, Leroy Merlin
 - Focus: technical audits, digital transformation, SEO strategy, AI integration
 - Speaker at SMX Paris (2020 Award: Search Personality of the Year)
-
-### 2019–2021 | Acquisition & Digital Performance Manager
-- Direct report to CTO, cross-functional team supervision
-- SEO traffic increase: +137% within 100 days
-- Built fully operational SEO/SEA monitoring dashboard
 
 ### 2017–2019 | Customer Success Manager — OnCrawl (SaaS)
 - Managed portfolio of 30+ major accounts (CDiscount, OVH, Leroy Merlin, Boulanger)
