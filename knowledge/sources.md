@@ -22,6 +22,8 @@ The agent can fetch these when knowledge files don't cover a question.
 - **Entretien SMX Paris 2019 (avec Mathieu Gheerbrant)**: https://www.youtube.com/watch?v=Ljgw1SPU9wY
 
 ## Articles & Press
+- **Journal Du Net Actualité**: https://www.journaldunet.com/seo/1486410-semy-awards-paris-2019/
+- **Linkedin Post SMX Paris - Erlé ALBERTON gagne le prix de la perosnnalité Search de l'année** : https://www.linkedin.com/pulse/semy-awards-d%C3%A9couvrez-les-laur%C3%A9ats-de-l%C3%A9dition-2019-smx-paris/
 - **Blog du Modérateur Interview**: https://www.blogdumoderateur.com/seo-eveiller-stimuler-entrainer/
 - **Medium — "Pourquoi j'ai décidé de quitter OnCrawl"**: https://medium.com/@erle.alberton/pourquoi-jai-d%C3%A9cid%C3%A9-de-quitter-oncrawl-d12c27208d4e
 - **OnCrawl Author Page**: https://www.oncrawl.com/author/erle/

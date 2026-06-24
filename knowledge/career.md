@@ -5,7 +5,7 @@
 
 ## Timeline
 
-### 2024–Present | Founder & AI Architect — OMKomUnity
+### 2025–Present | Founder & AI Architect — OMKomUnity (SAS July 2026)
 - Founded AI-native SaaS platform for automated project scoping
 - Built 48 specialized AI agents orchestrated via N8N workflows
 - Full-stack: React 18, Docker, PostgreSQL, Redis, Nginx, Express.js

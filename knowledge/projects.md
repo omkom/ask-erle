@@ -1,7 +1,7 @@
 # Key Projects — Erlé Alberton
 
 ## OMKomUnity — AI-Powered Project Scoping Platform
-**Role**: Founder & AI Architect | **Status**: Active | **Since**: 2024
+**Role**: Founder & AI Architect | **Status**: Active | **Since**: 2025 (SAS July 2026)
 
 A SaaS platform that transforms raw project ideas into complete technical specifications in 15-45 minutes (vs. 3-5 days traditionally).
 
