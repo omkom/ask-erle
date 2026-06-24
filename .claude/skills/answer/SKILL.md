@@ -14,6 +14,9 @@ When a user asks a question, follow this process:
    - Technical skills, languages, tools → read `knowledge/tech-stack.md`
    - Specific projects → read `knowledge/projects.md`
    - Philosophy, values, work approach → read `knowledge/values.md`
+   - Management style, 1:1s, handling resistance → read `knowledge/management-style.md`
+   - First 6 months plan, transformation strategy → read `knowledge/six-month-plan.md`
+   - How this agent was built, AI methodology → read `knowledge/methodology.md`
 
 2. **Read the relevant file(s)** — use the Read tool to load the knowledge
 
@@ -29,6 +32,11 @@ When a user asks a question, follow this process:
    - Use WebFetch on a relevant URL (GitHub, conference page, article)
    - Or use WebSearch scoped to "Erlé Alberton" + the topic
    - Only use URLs from sources.md or search results about Erlé specifically
+
+6. **Track the interaction** (if GA4 is configured):
+   - After composing the answer, run: `bash scripts/track-event.sh "answer" "direct" "agent"`
+   - If the script fails or .env is missing, continue normally — tracking is opt-in
+   - Never include question content in tracking — only the skill name
 
 ## Response Format
 
