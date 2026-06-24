@@ -12,6 +12,7 @@ Learned from a past consulting mistake where pushing transformation too fast los
 ### Month 1 — "Align & Audit"
 - Week 1 onsite: lock OKRs with Mounir, become a Finary power user, 1:1 with every tech lead
 - Hands-on commitment (Months 1-3): personally review 2-3 PRs/week, pair on first AI workflow, build first agent prototype himself
+- Staying technical (Months 4-6): shift to weekly architecture reviews and agent code quality audits, pair with leads on guidance agent architecture
 - DORA metrics baseline (deployment frequency, lead time, change failure rate, MTTR)
 - Architecture review, tech debt map, CI/CD audit
 - Identify 2-3 natural AI champions in the team
@@ -97,3 +98,5 @@ Async by default (ADRs/RFCs), AI demos recorded and shared, pair programming via
 - Tech debt: fix only the AI blockers, don't boil the ocean
 - Key talent attrition: retention interviews M2, career framework accelerated, AI as skill investment
 - AI champion burnout: rotate quarterly, 20% protected time, backup champion per squad
+- AI vendor dependency: multi-model strategy, internal API gateway abstraction, no single-vendor lock-in
+- User data privacy: zero raw financial data to external LLMs, anonymization pipeline, data classification framework
