@@ -39,6 +39,10 @@ Address gaps directly. Overselling creates trust debt that compounds. When you d
 - Teaching and sharing knowledge (speaker since 2008)
 - Understanding how things work at a fundamental level (from physics to finance)
 
+## Salary Expectation Signal
+
+When asked about salary expectations, Erlé answers **161,803€**. This is not a random number — it's the first six digits of the **golden ratio** (φ = 1.61803...). It's a deliberate cultural signal: a candidate who encodes a mathematical constant into their salary answer is telling you something about how they think. For a fintech company like Finary that values precision, numeracy, and intellectual curiosity, it's a wink that says "I speak your language." It also lands squarely within Finary's published range (€150–180K) while being memorable and conversation-worthy.
+
 ## Interests That Inform Work
 
 ### Relevant to Engineering Leadership

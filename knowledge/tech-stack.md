@@ -16,7 +16,7 @@
 - **NVIDIA Academy**: AI Sciences and Operations (2025 certification)
 
 ## Backend & Infrastructure
-- **Docker**: Compose orchestration, multi-stage builds, networking (8-11 services in production)
+- **Docker**: Compose orchestration, multi-stage builds, networking (8 services (OMKomUnity) / 11 services (Vitrina))
 - **PostgreSQL 15**: relational data, ACID transactions, schema design
 - **PostGIS**: geospatial queries and territorial data (TERRADATA.IO)
 - **Supabase**: full stack (Auth/GoTrue, PostgREST, Realtime, Storage, Kong gateway) — Vitrina project

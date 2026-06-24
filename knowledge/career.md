@@ -34,7 +34,7 @@
 - SEO traffic increase: +137% within 100 days
 - Built fully operational SEO/SEA monitoring dashboard
 
-### 2022–2023 | Chief Digital & Marketing Officer — RAYN/AKT.IO (Web3 NeoBank)
+### 2022–2023 | Chief Digital & Marketing Officer — RAYN/AKT.IO (Web3 NeoBank) (Freelance, concurrent with Reezocar)
 - Led digital transformation and marketing for a fintech/Web3 company
 - GDPR compliance (Didomi integration), GA4 tracking, attribution stack
 - Implemented martech tracking in native iOS/Android mobile apps
