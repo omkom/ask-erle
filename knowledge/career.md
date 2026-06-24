@@ -8,8 +8,8 @@
 ### 2025–Present | Founder & AI Architect — OMKomUnity (SAS July 2026)
 - Founded AI-native SaaS platform for automated project scoping
 - Built 48 specialized AI agents orchestrated via N8N workflows
-- Full-stack: React 18, Docker, PostgreSQL, Redis, Nginx, Express.js
-- 257K+ lines of code, 268 commits
+- Full-stack: React 18, Docker, PostgreSQL, Redis, Nginx, Express.js — 8 microservices
+- Scoping 5 days → 15 min — measured 5x output vs traditional process
 
 ### 2024–Present | Creator — Claude Code AI Operating System
 - Built 53 specialized AI skills for daily professional workflow

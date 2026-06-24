@@ -50,9 +50,8 @@ A production SaaS platform that orchestrates 48 specialized AI agents to transfo
 - **Request deduplication**: 2-second cache with key-based dedup
 
 ### Scale
-- 257K+ lines of code
-- 268 commits
-- 45+ N8N workflows
+- 8 Docker microservices in production stack
+- 45+ N8N automated workflows
 - 9 document templates
 - Docker Compose production-ready (dev/staging/prod configs)
 

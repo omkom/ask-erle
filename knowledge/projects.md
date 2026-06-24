@@ -16,8 +16,7 @@ A SaaS platform that transforms raw project ideas into complete technical specif
 - 8 microservices (React 18, N8N, Strapi, PostgreSQL, Redis, Nginx, Express.js, Bolt)
 - Multi-model: Claude + GPT-4 running in parallel with intelligent fallback
 - Real-time streaming (SSE) for live document generation preview
-- Adaptive learning: suggestions improve 60% after 5 projects
-- 257K+ lines of code, 268 commits, Docker production-ready
+- 8 Docker microservices, production-ready (dev/staging/prod)
 
 **Business impact:**
 - Reduces project scoping cost by ~75%
