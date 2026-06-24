@@ -56,10 +56,12 @@ Learned from a past consulting mistake where pushing transformation too fast los
 
 ### Month 5 — "Industrialize"
 - DORA comparison M1 vs M5 (target: 2x deploy frequency, -40% lead time)
+- Quality metrics M1 vs M5: defect escape rate (target: -30%), critical bugs per release (<2), AI-assisted review coverage (target: 100% PRs)
 - User-facing AI agents in production
 - Engineering documentation and onboarding
+- Affluent integration finalized: shared auth, portfolio data union, retention target ≥95% at 90 days
 - Engineering brand (blog, open source, tech talks)
-- Deliverable: DORA dashboard + user agents + brand launch
+- Deliverable: DORA dashboard + quality metrics + user agents + brand launch
 
 ### Month 6 — "Prove the Bet"
 - Full productivity assessment on 5 target workflows (code review turnaround, test generation, incident triage MTTR, documentation, deploy lead time). Target: 3-5x on at least 3 of 5 vs M1 baseline

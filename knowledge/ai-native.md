@@ -21,7 +21,7 @@ A complete AI-augmented work methodology built on Claude Code, used every day fo
 - **Skill-creator with evaluation**: Benchmarks, grading system with assertions, description optimization.
 
 ### Measured Results
-- Project scoping: 5 days → 15 minutes (33x improvement)
+- Project scoping: 5 days → 15 minutes
 - Solo consultant delivering multi-domain audit reports matching 5-person team output
 - 14 audit deliverables for enterprise client (4 domains, technical migration)
 - Acquisition costs -65% through AI-powered workflows (Reezocar)

@@ -31,7 +31,7 @@ cd ask-erle
 ```bash
 # Should show: CLAUDE.md, README.md, .claude/, knowledge/
 ls -la
-# Should show 7 knowledge files
+# Should show 10 knowledge files
 ls knowledge/
 ```
 
